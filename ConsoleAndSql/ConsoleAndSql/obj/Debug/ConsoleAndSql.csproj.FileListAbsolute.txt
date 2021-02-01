@@ -1,0 +1,7 @@
+E:\DotNet2021\ConsoleAssignments\ConsoleAndSqlAssignment1Feb2021\ConsoleAndSql\ConsoleAndSql\obj\Debug\ConsoleAndSql.csprojAssemblyReference.cache
+E:\DotNet2021\ConsoleAssignments\ConsoleAndSqlAssignment1Feb2021\ConsoleAndSql\ConsoleAndSql\obj\Debug\ConsoleAndSql.csproj.CoreCompileInputs.cache
+E:\DotNet2021\ConsoleAssignments\ConsoleAndSqlAssignment1Feb2021\ConsoleAndSql\ConsoleAndSql\bin\Debug\ConsoleAndSql.exe.config
+E:\DotNet2021\ConsoleAssignments\ConsoleAndSqlAssignment1Feb2021\ConsoleAndSql\ConsoleAndSql\bin\Debug\ConsoleAndSql.exe
+E:\DotNet2021\ConsoleAssignments\ConsoleAndSqlAssignment1Feb2021\ConsoleAndSql\ConsoleAndSql\bin\Debug\ConsoleAndSql.pdb
+E:\DotNet2021\ConsoleAssignments\ConsoleAndSqlAssignment1Feb2021\ConsoleAndSql\ConsoleAndSql\obj\Debug\ConsoleAndSql.exe
+E:\DotNet2021\ConsoleAssignments\ConsoleAndSqlAssignment1Feb2021\ConsoleAndSql\ConsoleAndSql\obj\Debug\ConsoleAndSql.pdb
